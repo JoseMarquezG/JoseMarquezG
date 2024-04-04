@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JoseMarquezG
 - 👀 I’m interested in Data Science and Data Analysis fields 
-- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Anyone who can inspire me or guide me through this field.
 - 📫 How to reach me.You can reach me via email : josemarquezg_93@hotmail.com or LinkedIn : https://www.linkedin.com/in/josemarquezgamarro
